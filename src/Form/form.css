@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.corpo{
+    background-color: white;
+}
+button{
+    color: hsl(154, 59%, 51%);
+}
+form{
+    flex-direction: column;
+    margin-top: 30%;
+    height: 500px;
+    width: 400px;
+    background-color: white;
+}
